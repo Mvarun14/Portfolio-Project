@@ -3,7 +3,7 @@ export const projectsData = {
   projects: [
     {
       image: '/projects/webappsec.jpg',
-      title: 'Automated Exploit and Defense Testing Framework for Web Applications',
+      title: 'Automated Web Security Testing Engine',
       description:
         'Built a Python framework to simulate OWASP Top 10 web attacks, automate exploit testing, and validate defenses using secure coding and DevSecOps principles.',
       tags: ['Python', 'Flask', 'HTML', 'MySQL', 'Visual Studio Code'],
