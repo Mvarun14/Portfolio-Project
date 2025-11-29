@@ -14,7 +14,7 @@ export const heroSectionData = {
     },
     secondary: {
       label: 'Download Resume',
-      href: '/MPVarunSE.pdf',
+      href: '/PhaniVarunMSE.pdf',
       isExternal: true,
     },
   },
