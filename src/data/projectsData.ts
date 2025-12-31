@@ -2,6 +2,15 @@ export const projectsData = {
   title: 'Featured Work',
   projects: [
     {
+      image: '/projects/code.svg',
+      title: 'Policy-Driven Code Reviewer',
+      description:
+        'Designed a policy-driven backend analysis platform to evaluate pull requests for correctness, performance, and security, enforcing CI/CD controls to prevent high-risk code regressions before merge.',
+      tags: ['Python', 'FastAPI', 'Docker', 'Github Actions', 'Visual Studio Code'],
+      codeLink: 'https://github.com/Mvarun14/Policy-Driven-Code-Reviewer',
+      comingSoon: false,
+    },
+    {
       image: '/projects/webappsec.jpg',
       title: 'Automated Web Security Testing Engine',
       description:

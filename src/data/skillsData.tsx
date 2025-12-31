@@ -36,5 +36,19 @@ export const skillsData = {
         { name: 'Kubernetes', icon: '/skill-icons/k8.svg' },
       ],
     },
+
+    {
+      name: 'Certifications',
+      skills: [
+        { name: 'CompTIA Security+', icon: '/skill-icons/comptia.png' },
+        { name: 'Google Cybersecurity Professional', icon: '/skill-icons/google.png' },
+        { name: 'AWS Cloud Security', icon: '/skill-icons/aws.png' },
+        { name: 'TryHackMe Security Engineer', icon: '/skill-icons/thm.png' },
+        { name: 'TryHackMe DevSecOps', icon: '/skill-icons/thm.png' },
+        // { name: 'Wireshark', icon: '/skill-icons/wireshark.png' },
+        // { name: 'Nmap', icon: '/skill-icons/nmap.svg' },
+      
+      ],
+    },
   ],
 };

@@ -10,6 +10,19 @@ export const experienceData = {
     //   descriptions: [''],
     // },
     {
+      company: 'University at Buffalo, State University of New York',
+      position: 'Graduate Assistant - Software Security',
+      timeline: 'March 2025 — Dec 2025',
+      location: 'Buffalo, United States',
+      // companyLink: 'https://www.goniyo.com/',
+      descriptions: [
+        'Analyzed and modified application source code to identify and remediate security vulnerabilities using secure coding practices.',
+        'Implemented input validation and authentication logic through code changes to reduce application-level security risks.',
+        'Applied threat modeling concepts to drive secure design decisions and guide design-informed code modifications.',
+        'Performed static and dynamic security testing, iterating on code fixes to validate remediations and improve security.',
+      ],
+    },
+    {
       company: 'EduSkills Foundation® Supported By Fortinet',
       position: 'Network Security Associate',
       timeline: 'May 2023 — July 2023',

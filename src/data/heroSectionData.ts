@@ -6,7 +6,7 @@ export const heroSectionData = {
   },
   title: 'Hi, My name is',
   name: 'Munukuntla Phani Varun',
-  designation: 'Security Engineer',
+  designation: 'Software Engineer, Security',
   button: {
     primary: {
       label: 'Get to Know Me',
@@ -14,7 +14,7 @@ export const heroSectionData = {
     },
     secondary: {
       label: 'Download Resume',
-      href: '/PhaniVarunMSE.pdf',
+      href: '/PHANI-VARUN.pdf',
       isExternal: true,
     },
   },
