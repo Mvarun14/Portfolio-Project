@@ -12,7 +12,7 @@ export const experienceData = {
     {
       company: 'University at Buffalo, State University of New York',
       position: 'Graduate Assistant - Software Security',
-      timeline: 'March 2025 — Dec 2025',
+      timeline: 'March 2025 — December 2025',
       location: 'Buffalo, United States',
       // companyLink: 'https://www.goniyo.com/',
       descriptions: [
